@@ -3,32 +3,44 @@
   "WorkspaceRootPath": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\checkconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\checkconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\infrastureture\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:infrastureture\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\hackthonprojectbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:hackthonprojectbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\crimereportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\crimereportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:application\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,16 +99,8 @@
       "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:infrastureture\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\infrastureture\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:infrastureture\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\application\\interfaces\\icrimereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:application\\interfaces\\icrimereportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|solutionrelative:application\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E9CE38D1-8232-4661-A564-3EF098DDD37A}|HackThonProjectBackend.csproj|f:\\gihtub\\hackthonproject_nsu\\backend\\hackthonprojectbackend\\domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -119,84 +123,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CheckConnection.cs",
+              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\CheckConnection.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\CheckConnection.cs",
+              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\CheckConnection.cs",
+              "RelativeToolTip": "API\\Controllers\\CheckConnection.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T16:42:54.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-10T14:10:03.438Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "AdminController.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AdminController.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\AdminController.cs",
               "RelativeToolTip": "API\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwBcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T14:04:44.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:55:44.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
-              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:55:05.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CrimeReportsController.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\CrimeReportsController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\CrimeReportsController.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\CrimeReportsController.cs",
               "RelativeToolTip": "API\\Controllers\\CrimeReportsController.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCEAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:54:46.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "AuthController.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\AuthController.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwAgAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:53:44.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "UserProfileUpdateDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\UserProfileUpdateDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\UserProfileUpdateDto.cs",
@@ -209,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CommentCreateDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\CommentCreateDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\CommentCreateDto.cs",
@@ -222,7 +213,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastureture\\Data\\AppDbContext.cs",
+              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastureture\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:47:41.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HackThonProjectBackend",
+              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\HackThonProjectBackend.csproj",
+              "RelativeDocumentMoniker": "HackThonProjectBackend.csproj",
+              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\HackThonProjectBackend.csproj",
+              "RelativeToolTip": "HackThonProjectBackend.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-10T16:32:10.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:55:44.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
+              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Services\\AuthService.cs",
+              "RelativeToolTip": "Application\\Services\\AuthService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:44:01.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\UsersController.cs",
+              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:55:05.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CrimeReportService.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Services\\CrimeReportService.cs",
               "RelativeDocumentMoniker": "Application\\Services\\CrimeReportService.cs",
@@ -235,33 +291,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\AuthService.cs",
-              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Services\\AuthService.cs",
-              "RelativeToolTip": "Application\\Services\\AuthService.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAIA9wF8AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:44:01.748Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "User.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Domain\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Domain\\Entities\\User.cs",
               "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAowA4AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA5wA4AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:34:33.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "VoteDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\VoteDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\VoteDto.cs",
@@ -274,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CrimeReportCreateDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\CrimeReportCreateDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\CrimeReportCreateDto.cs",
@@ -287,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "OTPDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\OTPDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\OTPDto.cs",
@@ -300,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\LoginDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\LoginDto.cs",
@@ -313,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\API\\DTO\\RegisterDto.cs",
               "RelativeDocumentMoniker": "API\\DTO\\RegisterDto.cs",
@@ -326,20 +369,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "OTPService.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Services\\OTPService.cs",
               "RelativeDocumentMoniker": "Infrastureture\\Services\\OTPService.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Services\\OTPService.cs",
               "RelativeToolTip": "Infrastureture\\Services\\OTPService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA7wBUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:51:34.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "FileStorageService.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Services\\FileStorageService.cs",
               "RelativeDocumentMoniker": "Infrastureture\\Services\\FileStorageService.cs",
@@ -352,7 +395,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "AIService.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Services\\AIService.cs",
               "RelativeDocumentMoniker": "Infrastureture\\Services\\AIService.cs",
@@ -365,20 +408,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Infrastureture\\Repositories\\UserRepository.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Infrastureture\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowB8AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wB8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:49:06.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Infrastureture\\Repositories\\IUserRepository.cs",
@@ -391,20 +434,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Infrastureture\\Data\\AppDbContext.cs",
-              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Infrastureture\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Infrastureture\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwAkAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:47:41.838Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "ICrimeReportService.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Interfaces\\ICrimeReportService.cs",
               "RelativeDocumentMoniker": "Application\\Interfaces\\ICrimeReportService.cs",
@@ -417,20 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeDocumentMoniker": "Application\\Interfaces\\IAuthService.cs",
-              "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Application\\Interfaces\\IAuthService.cs",
-              "RelativeToolTip": "Application\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T13:43:04.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Comment.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Domain\\Entities\\Comment.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Comment.cs",
@@ -443,13 +460,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "CrimeReport.cs",
               "DocumentMoniker": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Domain\\Entities\\CrimeReport.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\CrimeReport.cs",
               "ToolTip": "F:\\gihtub\\HackthonProject_NSU\\Backend\\HackThonProjectBackend\\Domain\\Entities\\CrimeReport.cs",
               "RelativeToolTip": "Domain\\Entities\\CrimeReport.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAuwBIAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA8wBIAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-10T13:41:52.618Z",
               "EditorCaption": ""

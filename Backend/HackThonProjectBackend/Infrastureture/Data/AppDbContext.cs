@@ -8,6 +8,18 @@ namespace HackThonProjectBackend.Infrastureture.Data
         public DbSet<User> Users { get; set; }
         public DbSet<CrimeReport> CrimeReports { get; set; }
         public DbSet<Comment> Comments { get; set; }
+        public async Task<bool> CanConnectAsync()
+        {
+            try
+            {
+                return await Database.CanConnectAsync();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Database connection failed: {ex.Message}");
+                return false;
+            }
+        }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
