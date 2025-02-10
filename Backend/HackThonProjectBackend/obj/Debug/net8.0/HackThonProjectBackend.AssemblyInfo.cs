@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HackThonProjectBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22e96d055ef98457d0dbd4f6a3d08f9c5983e0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+353fb52c64cb4f4a87294b1dbf40a044a8003289")]
 [assembly: System.Reflection.AssemblyProductAttribute("HackThonProjectBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HackThonProjectBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
