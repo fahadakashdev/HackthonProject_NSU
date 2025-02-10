@@ -24,5 +24,14 @@ namespace HackThonProjectBackend.API.Controllers
             }
             return StatusCode(500, new { status = "Error", message = "Failed to connect to PostgreSQL" });
         }
+   
+
+    [HttpGet("db-status-check")]
+        public async Task<IActionResult> CheckDatabaseConnectionStatus()
+        {
+            bool canConnect = await _context.CanConnectAsync();
+            return canConnect ? Ok("Database Connected ✅") : StatusCode(500, "Database Connection Failed ❌");
+        }
+
     }
 }

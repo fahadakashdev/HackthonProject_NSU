@@ -13,6 +13,8 @@
         // Navigation properties
         public ICollection<CrimeReport> CrimeReports { get; set; }
         public ICollection<Comment> Comments { get; set; }
+        public string RefreshToken { get; set; }
+        public DateTime RefreshTokenExpiry { get; set; }
 
     }
 }

@@ -30,12 +30,29 @@ namespace HackThonProjectBackend.API.Controllers
         }
 
         [HttpPost("login")]
-        public async Task<IActionResult> Login(LoginDto loginDto)
+        public async Task<IActionResult> Login([FromBody] LoginDto loginDto)
         {
             try
             {
-                var token = await _authService.LoginAsync(loginDto.Email, loginDto.Password);
-                return Ok(new { token });
+                AuthResponseDto response = await _authService.LoginAsync(loginDto.Email, loginDto.Password);
+                return Ok(response);
+            }
+            catch (System.Exception ex)
+            {
+                return BadRequest(new { message = ex.Message });
+            }
+        }
+
+
+
+
+        [HttpPost("refresh-token")]
+        public async Task<IActionResult> RefreshToken([FromBody] RefreshTokenDto refreshTokenDto)
+        {
+            try
+            {
+                AuthResponseDto response = await _authService.RefreshTokenAsync(refreshTokenDto.RefreshToken);
+                return Ok(response);
             }
             catch (Exception ex)
             {

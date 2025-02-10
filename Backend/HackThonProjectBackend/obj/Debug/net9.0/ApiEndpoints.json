@@ -111,6 +111,22 @@
   },
   {
     "ContainingType": "HackThonProjectBackend.API.Controllers.AuthController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/Auth/refresh-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "refreshTokenDto",
+        "Type": "HackThonProjectBackend.API.DTO.RefreshTokenDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HackThonProjectBackend.API.Controllers.AuthController",
     "Method": "Register",
     "RelativePath": "api/Auth/register",
     "HttpMethod": "POST",
@@ -275,6 +291,16 @@
     "ContainingType": "HackThonProjectBackend.API.Controllers.HealthCheckController",
     "Method": "CheckDatabaseConnection",
     "RelativePath": "api/health/db-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HackThonProjectBackend.API.Controllers.HealthCheckController",
+    "Method": "CheckDatabaseConnectionStatus",
+    "RelativePath": "api/health/db-status-check",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,

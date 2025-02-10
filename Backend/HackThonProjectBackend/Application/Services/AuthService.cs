@@ -11,6 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IdentityModel.Tokens.Jwt;
 using HackThonProjectBackend.Infrastureture.Data;
+using HackThonProjectBackend.API.DTO;
 
 namespace HackThonProjectBackend.Application.Services
 {
@@ -21,11 +22,11 @@ namespace HackThonProjectBackend.Application.Services
             private readonly AppDbContext _context;
             private readonly IConfiguration _configuration;
 
-            public AuthService(AppDbContext context, IConfiguration configuration)
-            {
-                _context = context;
-                _configuration = configuration;
-            }
+             public AuthService(AppDbContext context, IConfiguration configuration)
+    {
+        _context = context ?? throw new ArgumentNullException(nameof(context));
+        _configuration = configuration ?? throw new ArgumentNullException(nameof(configuration));
+    }
 
             public async Task<User> RegisterAsync(string email, string password, string phoneNumber)
             {
@@ -51,16 +52,51 @@ namespace HackThonProjectBackend.Application.Services
                 return user;
             }
 
-            public async Task<string> LoginAsync(string email, string password)
+        public async Task<AuthResponseDto> LoginAsync(string email, string password)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
+            if (user == null || user.PasswordHash != ComputeHash(password) || user.IsBanned)
+                throw new Exception("Invalid credentials or user banned.");
+
+            string accessToken = GenerateJwtToken(user);
+            string refreshToken = GenerateRefreshToken();
+
+            user.RefreshToken = refreshToken;
+            user.RefreshTokenExpiry = DateTime.UtcNow.AddDays(7);
+            await _context.SaveChangesAsync();
+
+            return new AuthResponseDto
             {
-                var user = await _context.Users.FirstOrDefaultAsync(u => u.Email == email);
-                if (user == null || user.PasswordHash != ComputeHash(password) || user.IsBanned)
-                    throw new Exception("Invalid credentials or user banned.");
+                AccessToken = accessToken,
+                RefreshToken = refreshToken
+            };
+        }
 
-                return GenerateJwtToken(user);
-            }
 
-            public async Task<bool> VerifyOTPAsync(string phoneNumber, string otp)
+        public async Task<AuthResponseDto> RefreshTokenAsync(string refreshToken)
+        {
+            var user = await _context.Users.FirstOrDefaultAsync(u => u.RefreshToken == refreshToken);
+
+            if (user == null || user.RefreshTokenExpiry < DateTime.UtcNow)
+                throw new Exception("Invalid or expired refresh token.");
+
+            string newAccessToken = GenerateJwtToken(user);
+            string newRefreshToken = GenerateRefreshToken();
+
+            user.RefreshToken = newRefreshToken;
+            user.RefreshTokenExpiry = DateTime.UtcNow.AddDays(7);
+            await _context.SaveChangesAsync();
+
+            return new AuthResponseDto
+            {
+                AccessToken = newAccessToken,
+                RefreshToken = newRefreshToken
+            };
+        }
+
+
+
+        public async Task<bool> VerifyOTPAsync(string phoneNumber, string otp)
             {
                 // In production, verify OTP using an external service.
                 // For demonstration, assume OTP is "123456".
@@ -104,7 +140,17 @@ namespace HackThonProjectBackend.Application.Services
                 var token = tokenHandler.CreateToken(tokenDescriptor);
                 return tokenHandler.WriteToken(token);
             }
+        private string GenerateRefreshToken()
+        {
+            var randomNumber = new byte[32];
+            using (var rng = RandomNumberGenerator.Create())
+            {
+                rng.GetBytes(randomNumber);
+                return Convert.ToBase64String(randomNumber);
+            }
         }
-   
+ 
+    }
+
 
 }
