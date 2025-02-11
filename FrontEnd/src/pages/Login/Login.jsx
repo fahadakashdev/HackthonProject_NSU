@@ -1,13 +1,21 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import { useAuth } from '../../contexts/AuthContext';
+import { LoginData } from '../../utils/details';
 
 const Login = () => {
+    const { login } = useAuth();
     const [email, setEmail] = useState('');
     const [password, setPassword] = useState('');
 
     const handleLogin = (e) => {
         e.preventDefault();
-        // Handle login logic here
+        
+        if (login(data)) {
+            alert('Login successful');
+        } else {
+            alert('Invalid credentials');
+        }
     };
 
     return (
