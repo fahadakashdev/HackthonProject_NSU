@@ -114,3 +114,4 @@ F:\gihtub\HackthonProject_NSU\Backend\HackThonProjectBackend\obj\Debug\net9.0\re
 F:\gihtub\HackthonProject_NSU\Backend\HackThonProjectBackend\obj\Debug\net9.0\HackThonProjectBackend.pdb
 F:\gihtub\HackthonProject_NSU\Backend\HackThonProjectBackend\obj\Debug\net9.0\HackThonProjectBackend.genruntimeconfig.cache
 F:\gihtub\HackthonProject_NSU\Backend\HackThonProjectBackend\obj\Debug\net9.0\ref\HackThonProjectBackend.dll
+F:\gihtub\HackthonProject_NSU\Backend\HackThonProjectBackend\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
