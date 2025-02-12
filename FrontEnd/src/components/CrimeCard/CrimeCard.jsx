@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { ThumbsUp, ThumbsDown, MessageCircle, Bookmark, Link2 } from 'lucide-react';
 
 const CrimeCard = () => {
